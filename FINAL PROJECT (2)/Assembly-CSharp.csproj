@@ -62,6 +62,10 @@
     <Compile Include="Assets/Script/Health.cs" />
     <Compile Include="Assets/Script/EnemyDamage.cs" />
     <Compile Include="Assets/Script/MainMenu.cs" />
+    <Compile Include="Assets/Script/PauseMenu.cs" />
+    <Compile Include="Assets/Script/DestroyOutOfBounds.cs" />
+    <Compile Include="Assets/Script/GameManagerScript.cs" />
+    <Compile Include="Assets/Script/HealthBar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
