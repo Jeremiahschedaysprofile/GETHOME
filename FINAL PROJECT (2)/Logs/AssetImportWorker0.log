@@ -3351,3 +3351,348 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 579.161037 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Bench
+  artifactKey: Guid(58ba6ffb6419c47e08bbd0b717e684c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Bench using Guid(58ba6ffb6419c47e08bbd0b717e684c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096c12ac4bc4728cf23312b7b6277307') in 0.031172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002618 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Bench/Bench_A.prefab
+  artifactKey: Guid(f3878ef94022a6f459f18f2e12cd6813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Bench/Bench_A.prefab using Guid(f3878ef94022a6f459f18f2e12cd6813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb92a343c3b75003d37e251150027ac1') in 0.324421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Bench/Bench_C.prefab
+  artifactKey: Guid(fd58faf9989a8b64b90cfd27236a8f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Bench/Bench_C.prefab using Guid(fd58faf9989a8b64b90cfd27236a8f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4972e73fec6ec768ca9223a63b0cd81') in 0.038510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Bench/Bench_B.prefab
+  artifactKey: Guid(5cd02694d41c0254e951ddd6df1991ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Bench/Bench_B.prefab using Guid(5cd02694d41c0254e951ddd6df1991ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f968bbf8167606ef005325cdcbee23') in 0.030267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.862099 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Hidrant
+  artifactKey: Guid(03a90dae94f3c4ca2b15530c2f1bce0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Hidrant using Guid(03a90dae94f3c4ca2b15530c2f1bce0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '564b10d488bc4076e4ff379dc53fd3b9') in 0.002436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.057268 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Hidrant/Hidrant.prefab
+  artifactKey: Guid(28d375a433cc78c4fa3db00df795f14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Hidrant/Hidrant.prefab using Guid(28d375a433cc78c4fa3db00df795f14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6f01436d4adb1f62f1bc271821337a') in 0.046264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.444789 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/FuseBox/FuseBox.prefab
+  artifactKey: Guid(86948bb7ab2a8274aa6a73f0ed8b64d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/FuseBox/FuseBox.prefab using Guid(86948bb7ab2a8274aa6a73f0ed8b64d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9039174ebe6124b4f70645ee7acfb9e') in 0.038673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.798980 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/LightShape/LightShape.prefab
+  artifactKey: Guid(29a3662e1f6b9874f8b00773a2e193f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/LightShape/LightShape.prefab using Guid(29a3662e1f6b9874f8b00773a2e193f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c3837b8daee205edc9259b656531e56') in 0.042348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.898268 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/MailBox/MailBox.prefab
+  artifactKey: Guid(832783ac41f2d70468c4995bebfabfb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/MailBox/MailBox.prefab using Guid(832783ac41f2d70468c4995bebfabfb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3f055fa4252f66a1b81f907aedf405') in 0.037567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.256221 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/NewsBoard/NewsBoard.prefab
+  artifactKey: Guid(f32b000e4ef3aa247b8ff4d19a88aca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/NewsBoard/NewsBoard.prefab using Guid(f32b000e4ef3aa247b8ff4d19a88aca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24bbae2ae13ca32ccfffbaf3b86c54f3') in 0.037354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.549012 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Overpass/Overpass_A.prefab
+  artifactKey: Guid(6f4bc5fd70ff2aa479422ee0d98b0809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Overpass/Overpass_A.prefab using Guid(6f4bc5fd70ff2aa479422ee0d98b0809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db23f516cfedd9b17f71bafddd41d62a') in 0.046814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Overpass/Overpass_B.prefab
+  artifactKey: Guid(378251485ccc2214689266705249d0a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Overpass/Overpass_B.prefab using Guid(378251485ccc2214689266705249d0a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ff59a17b3640d8c82e24d527d5449a') in 0.032329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 57.340511 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/ParkLamp/ParkLamp.prefab
+  artifactKey: Guid(859c228a1a8fbe4439ce250eabda57aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/ParkLamp/ParkLamp.prefab using Guid(859c228a1a8fbe4439ce250eabda57aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca97860303dc43eb1cf7a9c365a276a1') in 0.090678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 91.261964 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Phone/Phone.prefab
+  artifactKey: Guid(68ee3d17a75022e4ebc3881d12645841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Phone/Phone.prefab using Guid(68ee3d17a75022e4ebc3881d12645841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '086d05f4b5b70afc174432e4d14f64e0') in 0.053623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 155.336909 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_A.prefab
+  artifactKey: Guid(139e334bc86f2bb468ee8db25d7b8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_A.prefab using Guid(139e334bc86f2bb468ee8db25d7b8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b695aa9196447b077b879b393f63c56') in 0.051677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_D.prefab
+  artifactKey: Guid(2ea1ccd72e26f874eac1724744be6ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_D.prefab using Guid(2ea1ccd72e26f874eac1724744be6ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7be65fc8c5b84b35393264527a09ab8') in 0.040077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_C.prefab
+  artifactKey: Guid(32af3f393ff0d7f4181a38ba0c48bc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_C.prefab using Guid(32af3f393ff0d7f4181a38ba0c48bc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc000950f59960e893720c86079d2ac6') in 0.037253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002822 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_G.prefab
+  artifactKey: Guid(c00fcb9c5891df24683f778e18dbcf7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_G.prefab using Guid(c00fcb9c5891df24683f778e18dbcf7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '641cace67cc30dc59d6d80b54aed34e8') in 0.028680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_F.prefab
+  artifactKey: Guid(9a4548a096dcf0b4bbd08df5cac590a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_F.prefab using Guid(9a4548a096dcf0b4bbd08df5cac590a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1215bf3e78755850fd0bf964e6e3fae1') in 0.029404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_J.prefab
+  artifactKey: Guid(52685ed25fdcb1b488b7047664232501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_J.prefab using Guid(52685ed25fdcb1b488b7047664232501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d9aaf9cc56d463500f648386485dbd8') in 0.028258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_B.prefab
+  artifactKey: Guid(cda5993f7f6d6ab409ec03d0c5a85c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_B.prefab using Guid(cda5993f7f6d6ab409ec03d0c5a85c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c467e277ef3a654fc496124a7f64f58e') in 0.027059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_K.prefab
+  artifactKey: Guid(e1bc359441555dc4394ba9abb79e5db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_K.prefab using Guid(e1bc359441555dc4394ba9abb79e5db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '127c836a4dd0e9d50494b9be0e25c265') in 0.029586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_H.prefab
+  artifactKey: Guid(2a4ab39d4d990d041887ced152a6f57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_H.prefab using Guid(2a4ab39d4d990d041887ced152a6f57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0e2a9f9229dfebe60778bf5e3fba0e') in 0.027796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_I.prefab
+  artifactKey: Guid(1f2fa3a64566519459d43669bf89c0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_I.prefab using Guid(1f2fa3a64566519459d43669bf89c0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09603e950bd5d4a568c88fed70f287d9') in 0.029149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_E.prefab
+  artifactKey: Guid(3581ff913e57c1d438b26cc67dce587a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_E.prefab using Guid(3581ff913e57c1d438b26cc67dce587a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df1c660ed0627f4aff91c2abcd2de44') in 0.028211 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 237.065425 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/SewerCaps/SewerCap_A.prefab
+  artifactKey: Guid(381f2680f281e244eb33ca1608e0a5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/SewerCaps/SewerCap_A.prefab using Guid(381f2680f281e244eb33ca1608e0a5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1594b50b34c5ef98d8ed59f64234946') in 0.049521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/SewerCaps/SewerCap_B.prefab
+  artifactKey: Guid(91f1e76099c83554f834694bd8cacdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/SewerCaps/SewerCap_B.prefab using Guid(91f1e76099c83554f834694bd8cacdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b1350d6d6a96321b38188f9c187695a') in 0.033797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.977549 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild
+  artifactKey: Guid(b8e65997f105f4f74a9c93288ebfa17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild using Guid(b8e65997f105f4f74a9c93288ebfa17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c423af32aa56c94af5d83698420509f3') in 0.002055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.042159 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V01.prefab
+  artifactKey: Guid(5f8e8b7b7a2c586408e4c48f6cf88b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V01.prefab using Guid(5f8e8b7b7a2c586408e4c48f6cf88b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b8175c4fec6f2cba99a21d1c7fe8b99') in 0.166676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_C_V01.prefab
+  artifactKey: Guid(16396581252dc7f418d57dad32e882d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_C_V01.prefab using Guid(16396581252dc7f418d57dad32e882d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c116414b29e01ab3bdd93afd95036ffb') in 0.029833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_D_V02.prefab
+  artifactKey: Guid(415ae327681e843459645b9ef3f3a4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_D_V02.prefab using Guid(415ae327681e843459645b9ef3f3a4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab951565d80f984b75bd872810fc528') in 0.029865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_D_V01.prefab
+  artifactKey: Guid(05a609dfeaa0a8342a84c707df86f647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_D_V01.prefab using Guid(05a609dfeaa0a8342a84c707df86f647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45bf7cd545db866d76ab75493db8c66f') in 0.030828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_C_V02.prefab
+  artifactKey: Guid(35e1c3ed6bcdc3d4b8d56e231782c480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_C_V02.prefab using Guid(35e1c3ed6bcdc3d4b8d56e231782c480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01146b39ef6bdab1afec6091e1bd9c63') in 0.030057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V02.prefab
+  artifactKey: Guid(ae2d71bb1caf5d443b147e96284f03f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V02.prefab using Guid(ae2d71bb1caf5d443b147e96284f03f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d396779ed4af6abcb4d3aa14883b0ee') in 0.027743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_B_V01.prefab
+  artifactKey: Guid(7c37bcd7b749ad646b9478462ee83132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_B_V01.prefab using Guid(7c37bcd7b749ad646b9478462ee83132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb4e3a4e5324b8fb1738dc759019c7d6') in 0.030149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V06.prefab
+  artifactKey: Guid(347ada20f0d4e3b4fb00956605422db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V06.prefab using Guid(347ada20f0d4e3b4fb00956605422db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17137c9f1b8d7777680a77b2036b87aa') in 0.028780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_B_V02.prefab
+  artifactKey: Guid(db5a25ddc3185af4db2ea401a0e626c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_B_V02.prefab using Guid(db5a25ddc3185af4db2ea401a0e626c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '177d1337fc8213b266f0d27d75670645') in 0.029971 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V03.prefab
+  artifactKey: Guid(ddfcbbb1c20f9974ca2e37062be14ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V03.prefab using Guid(ddfcbbb1c20f9974ca2e37062be14ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904981d531731cd4a03b5ddc99a479be') in 0.034232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V04.prefab
+  artifactKey: Guid(c32ee39a32e7ce745be3e321898dc615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V04.prefab using Guid(c32ee39a32e7ce745be3e321898dc615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041de6a78ae4d3b1c839093bb67e26eb') in 0.029885 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_B_V03.prefab
+  artifactKey: Guid(61c5be593e036dd47adfb61fa4624dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_B_V03.prefab using Guid(61c5be593e036dd47adfb61fa4624dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5c1cc13c0c3674672a69df73a3380fd') in 0.028432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_C_V03.prefab
+  artifactKey: Guid(13bfc4c75c9ad4e4c9457712dbc8252a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_C_V03.prefab using Guid(13bfc4c75c9ad4e4c9457712dbc8252a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c50213cfeb635e70722ce2c788e3a2') in 0.029396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V05.prefab
+  artifactKey: Guid(1b50922de90e0654cbf5db85af07e8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_A_V05.prefab using Guid(1b50922de90e0654cbf5db85af07e8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86118bc41b112d081dc26cd8af650a3') in 0.028558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_D_V03.prefab
+  artifactKey: Guid(1056deee5853f9b4b803937253095a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/PlantPots/QuickBuild/PlantPot_D_V03.prefab using Guid(1056deee5853f9b4b803937253095a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90007875d23983d28c0fd4f16fee1164') in 0.028736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.437804 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Powerpoles
+  artifactKey: Guid(faa395c94fe4e47bdbd10f69102f110d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Powerpoles using Guid(faa395c94fe4e47bdbd10f69102f110d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f56cb7dc1f9ad362f2b59cffee774404') in 0.004913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.054944 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Powerpoles/Powerpole_A_A.prefab
+  artifactKey: Guid(0f92d2fd15e7f4b4e9ed2fb13644ad68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Powerpoles/Powerpole_A_A.prefab using Guid(0f92d2fd15e7f4b4e9ed2fb13644ad68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8a64643a3531b9c47f9e6055e1b8a0') in 0.050920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Powerpoles/Powerpole_B_B.prefab
+  artifactKey: Guid(b3bfdc11c7193c04d93f651feb81749f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Powerpoles/Powerpole_B_B.prefab using Guid(b3bfdc11c7193c04d93f651feb81749f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce6b93707ff0a4096d5fde76963558e') in 0.029569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Powerpoles/Powerpole_B_A.prefab
+  artifactKey: Guid(521bc4e05614b3d4e8d0d60accdfa377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Powerpoles/Powerpole_B_A.prefab using Guid(521bc4e05614b3d4e8d0d60accdfa377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a33bf09d361aea5a3f6ea4884ab93617') in 0.026949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/LowpolyStreetPack/Prefabs/StreetProps/Powerpoles/Powerpole_A_B.prefab
+  artifactKey: Guid(a652bb91708f8054b9d0821a1e4e8cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowpolyStreetPack/Prefabs/StreetProps/Powerpoles/Powerpole_A_B.prefab using Guid(a652bb91708f8054b9d0821a1e4e8cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '286c0bc36421709914688ef1860430f6') in 0.025517 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001928 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2023-08-09 16:15:52.075 Unity[64925:2506279] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7ff70a1045e0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  4.742 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4745ms)
+		BeginReloadAssembly (448ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (84ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (129ms)
+		EndReloadAssembly (4104ms)
+			LoadAssemblies (432ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (626ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (100ms)
+			SetupLoadedEditorAssemblies (2482ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (582ms)
+				ProcessInitializeOnLoadAttributes (1749ms)
+				ProcessInitializeOnLoadMethodAttributes (114ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1680 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 1.18 GB.
+System memory in use after: 1.18 GB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2328.
+Total: 4.441541 ms (FindLiveObjects: 0.191250 ms CreateObjectMapping: 0.071167 ms MarkObjects: 4.041541 ms  DeleteObjects: 0.136500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
