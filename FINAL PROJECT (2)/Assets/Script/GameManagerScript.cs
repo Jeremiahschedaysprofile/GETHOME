@@ -34,4 +34,14 @@ public class GameManagerScript : MonoBehaviour
     {
         SceneManager.LoadScene("StartMenu");
     }
+
+    public void Level2()
+    {
+        SceneManager.LoadScene("Level2");
+    }
+
+    public void Level3()
+    {
+        SceneManager.LoadScene("Level3");
+    }
 }
