@@ -1767,15 +1767,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 33269b2b610f4c245a712795c1927939, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.8
+      value: 5.800003
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 33269b2b610f4c245a712795c1927939, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.8986869
+      value: -2.998687
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 33269b2b610f4c245a712795c1927939, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.3
+      value: 0.30000305
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 33269b2b610f4c245a712795c1927939, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3273,7 +3273,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 621797632}
-  m_LocalRotation: {x: 0.2720088, y: 0.02163477, z: -0.0061171018, w: 0.96203214}
+  m_LocalRotation: {x: 0.2720088, y: 0.021634772, z: -0.0061171018, w: 0.96203214}
   m_LocalPosition: {x: -0.27, y: 5.4, z: -19.86}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -5065,7 +5065,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.2720088, y: 0.02163477, z: -0.0061171018, w: 0.96203214}
+  m_LocalRotation: {x: 0.2720088, y: 0.021634772, z: -0.0061171018, w: 0.96203214}
   m_LocalPosition: {x: -0.27, y: 5.4, z: -19.86}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -10419,6 +10419,14 @@ PrefabInstance:
     - target: {fileID: 3912171179267368504, guid: 26ef3eaf148544309b2f935cb23d431c, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3912171179388143677, guid: 26ef3eaf148544309b2f935cb23d431c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -207
+      objectReference: {fileID: 0}
+    - target: {fileID: 3912171179388143677, guid: 26ef3eaf148544309b2f935cb23d431c, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 149
       objectReference: {fileID: 0}
     - target: {fileID: 3912171179487599165, guid: 26ef3eaf148544309b2f935cb23d431c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
