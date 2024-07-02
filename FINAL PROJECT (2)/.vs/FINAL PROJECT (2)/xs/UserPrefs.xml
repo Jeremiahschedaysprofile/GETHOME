@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{AB7B4534-A3BA-1043-A156-D5EFF90E94FB}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameManagerScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Health.cs">
     <Files>
       <File FileName="Assets/Script/GameManagerScript.cs" Line="45" Column="39" />
-      <File FileName="Assets/Script/Health.cs" />
-      <File FileName="Assets/Script/EnemyDamage.cs" />
+      <File FileName="Assets/Script/Health.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/EnemyDamage.cs" Line="1" Column="1" />
       <File FileName="Assets/Script/PauseMenu.cs" />
       <File FileName="Assets/Low Poly Guns/Scripts/GunsMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/CameraController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +17,7 @@
                 <Node name="Scripts" expanded="True" />
               </Node>
               <Node name="Script" expanded="True">
-                <Node name="GameManagerScript.cs" selected="True" />
+                <Node name="Health.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -26,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eb5c699b-f487-4392-a05e-2f5a0a21b3e3" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9b55abb9-ca06-472f-af6d-fc068112a0a2" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
